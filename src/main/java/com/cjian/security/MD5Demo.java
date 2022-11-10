@@ -10,7 +10,7 @@ import java.security.SecureRandom;
 /**
  * @Author: cjian
  * @Date: 2022/10/31 16:53
- * @Des: MD5测试
+ * @Des: MD5测试 -test
  */
 public class MD5Demo {
     private static String CHARSET = "UTF-8";
